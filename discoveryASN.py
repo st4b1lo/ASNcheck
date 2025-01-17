@@ -62,5 +62,5 @@ def process_ips(input_file, output_file):
 
 if __name__ == "__main__":
     input_file = 'ips.txt'
-    output_file = 'result.csv'
+    output_file = 'asnresults.csv'
     process_ips(input_file, output_file)
